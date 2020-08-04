@@ -8,10 +8,9 @@ An Open Source ALL-In-One Telegram RoBot, that can do lot of things.
 👉 All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html
 
 👉 Upload as file from any HTTP link
-
 ### Installation
 
-#### The Easy Way
+#### En toute simplicitéjjuuuukk
 
 #### You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
